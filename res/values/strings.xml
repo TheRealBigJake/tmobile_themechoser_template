@@ -16,9 +16,9 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">TemplateTheme Theme</string>
-    <string name="theme_name">TemplateTheme</string>
-    <string name="style_appearance_name">TemplateTheme</string>
-    <string name="author">Ricardo Cerqueira</string>
-    <string name="copyright">CyanogenMod</string>
+    <string name="app_name">Theme Template</string>
+    <string name="theme_name">ThemeTemplate</string>
+    <string name="style_appearance_name">ThemeTemplate</string>
+    <string name="author">Generic User</string>
+    <string name="copyright">Copyleft</string>
 </resources>
