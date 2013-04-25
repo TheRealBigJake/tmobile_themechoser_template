@@ -8,11 +8,11 @@ Sample T-Mobile Theme Choser Theme
 - A prebuilt "aapt" is included and used from build.xml. If you're the
   paranoid kind, build your own using the CM10 source tree. Standard
   aapt will _NOT_ work.
-- The name of the theme must be wherever you find "TemplateTheme" in here.
+- The name of the theme must be wherever you find "ThemeTemplate" in here.
   (manifest, strings, themes, build.xml)
 - Edit the path to your copy of the android SDK to local.properties
-- my-properties is used to release and sign the packages. It needs 
-  4 config items:
+- To make a Play STore release, you need a my.properties file here. my.properties
+  is used to release and sign the packages. It needs 4 config items:
 
 ----------
 key.store=/path/to/your.keystore
@@ -25,3 +25,7 @@ key.alias.password=
 - DO NOT DISTRIBUTE PACKAGES BUILT WITH "ant debug". The Google Play 
   Store doesn't allow them, and you'll be in trouble if you ever
   want to put them there.
+
+CREDITS : 
+Ricardo Cerqueira (arcee) of CyanogenMod team who made the original CM9 Template.
+This is based on that template.
