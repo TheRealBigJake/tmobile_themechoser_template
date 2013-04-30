@@ -6,8 +6,8 @@ AOKP UNICORNIA T-Mobile Theme Choser Theme
   work. This template has a number of examples for various scenarios
   of resource overriding
 - A prebuilt "aapt" is included and used from build.xml. If you're the
-  paranoid kind, build your own using the CM10 source tree. Standard
-  aapt will _NOT_ work.
+  paranoid kind, build your own using the CM10.1/AOKP 4.2.2 source tree.
+  Standard aapt will _NOT_ work.
 - The name of the theme must be wherever you find "TemplateTheme" in here.
   (manifest, strings, themes, build.xml)
 - Edit the path to your copy of the android SDK to local.properties

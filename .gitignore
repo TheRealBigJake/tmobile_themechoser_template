@@ -1,1 +1,5 @@
 my.properties
+bin/*
+res-final/*
+bin
+res-final
