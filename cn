@@ -1,0 +1,15 @@
+#!/bin/bash
+MYDIR=$(pwd)
+read -p "enter package eg com_android_ " pack
+for file in $*
+do
+	fil=${file##*/}
+	dir=${file%/*}
+	for i in "-hdpi" "-mdpi" "-xhdpi" "-land-hdpi" "-land-mdpi" "-land-xhdpi" "-sw600dp-hdpi" "-sw600dp-mdpi" "-sw600dp-xhdpi"
+	do
+		if [ ! -e ${MYDIR}/res/drawable${i}/${pack}${fil} -a -e ${dir}/../drawable${i}/${fil} ]
+		then
+			cp -fv ${dir}/../drawable${i}/${fil} ${MYDIR}/res/drawable${i}/${pack}${fil}
+		fi
+	done
+done
