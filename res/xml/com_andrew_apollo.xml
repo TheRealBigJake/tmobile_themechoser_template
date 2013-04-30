@@ -17,7 +17,7 @@
 
 <resource-redirections>
     <item name="drawable/ic_launcher">@drawable/ic_launcher_music</item>
-    <item name="color/holo_blue_dark">@color/sampletheme_maincolor_dark</item>
+    <item name="color/holo_blue_dark">@color/unicornia_maincolor_dark</item>
     <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
     <item name="drawable/tab_selected_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_holo</item>
     <item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_cyanogenmod_trebuchet_tab_selected_pressed_focused_holo</item>

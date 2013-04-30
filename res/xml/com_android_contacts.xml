@@ -33,12 +33,12 @@
     <item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item> 
     <item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item> 
     <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item> 
-    <item name="color/quickcontact_tab_indicator">@color/sampletheme_maincolor</item>
-    <item name="color/call_log_voicemail_highlight_color">@color/sampletheme_maincolor</item>
-    <item name="color/people_app_theme_color">@color/sampletheme_maincolor</item>
-    <item name="drawable/dialpad_background">@drawable/sampletheme_background</item> 
-    <item name="drawable/background_dial_holo_dark">@drawable/sampletheme_background</item> 
+    <item name="color/quickcontact_tab_indicator">@color/unicornia_maincolor</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/unicornia_maincolor</item>
+    <item name="color/people_app_theme_color">@color/unicornia_maincolor</item>
+    <item name="drawable/dialpad_background">@drawable/unicornia_background</item> 
+    <item name="drawable/background_dial_holo_dark">@drawable/unicornia_background</item> 
     <item name="drawable/ic_contact_picture_holo_dark">@drawable/ic_contact_picture</item> 
-    <!--item name="color/primary_text_color">@color/sampletheme_maincolor</item>
+    <!--item name="color/primary_text_color">@color/unicornia_maincolor</item>
     <item name="style/ListViewStyle">android:style/Widget.Holo.ListView</item-->
 </resource-redirections>

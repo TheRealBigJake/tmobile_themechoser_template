@@ -60,9 +60,9 @@
     <item name="drawable/expander_ic_maximized">@drawable/frameworks_res_expander_ic_maximized</item>
     <item name="drawable/expander_ic_minimized">@drawable/frameworks_res_expander_ic_minimized</item>
     <item name="drawable/editbox_background_focus_yellow">@drawable/frameworks_res_editbox_background_focus_yellow</item>
-    <item name="color/holo_blue_light">@color/sampletheme_maincolor</item>
-    <item name="color/holo_blue_dark">@color/sampletheme_maincolor_dark</item>
-    <item name="color/holo_blue_bright">@color/sampletheme_maincolor_bright</item>
+    <item name="color/holo_blue_light">@color/unicornia_maincolor</item>
+    <item name="color/holo_blue_dark">@color/unicornia_maincolor_dark</item>
+    <item name="color/holo_blue_bright">@color/unicornia_maincolor_bright</item>
     <item name="drawable/btn_cab_done_pressed_holo_dark">@drawable/frameworks_res_btn_cab_done_pressed_holo_dark</item>
     <item name="drawable/btn_cab_done_pressed_holo_light">@drawable/frameworks_res_btn_cab_done_pressed_holo_light</item>
     <item name="drawable/btn_check_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_check_off_disabled_focused_holo_dark</item>
@@ -177,8 +177,8 @@
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item> 
     <item name="drawable/progress_horizontal_holo_dark">@drawable/progress_horizontal_holo_dark</item> 
     <item name="drawable/progress_horizontal_holo_light">@drawable/progress_horizontal_holo_light</item> 
-    <item name="color/highlighted_text_holo_dark">@color/sampletheme_maincolor_bright</item>
-    <item name="color/highlighted_text_holo_light">@color/sampletheme_maincolor_bright</item>
+    <item name="color/highlighted_text_holo_dark">@color/unicornia_maincolor_bright</item>
+    <item name="color/highlighted_text_holo_light">@color/unicornia_maincolor_bright</item>
 
     <item name="drawable/stat_sys_kb_battery_100">@drawable/frameworks_res_stat_sys_kb_battery_100</item>
     <item name="drawable/stat_sys_kb_battery_28">@drawable/frameworks_res_stat_sys_kb_battery_28</item>
@@ -194,12 +194,12 @@
     <item name="drawable/stat_sys_kb_battery_charge_anim71">@drawable/frameworks_res_stat_sys_kb_battery_charge_anim71</item>
     <item name="drawable/stat_sys_kb_battery_charge_anim85">@drawable/frameworks_res_stat_sys_kb_battery_charge_anim85</item>
     <!-- These affect the ActionBar
-    <item name="drawable/action_bar_background">@color/sampletheme_maincolor_reverted</item>
-    <item name="drawable/action_bar_divider">@color/sampletheme_maincolor_reverted</item>
-    <item name="drawable/ab_transparent_dark_holo">@color/sampletheme_maincolor_reverted</item-->
+    <item name="drawable/action_bar_background">@color/unicornia_maincolor_reverted</item>
+    <item name="drawable/action_bar_divider">@color/unicornia_maincolor_reverted</item>
+    <item name="drawable/ab_transparent_dark_holo">@color/unicornia_maincolor_reverted</item-->
     <!-- And this one the generic gradient background
     <item name="drawable/screen_background_selector_dark">@drawable/screen_background_selector</item-->
-    <item name="drawable/notify_panel_notification_icon_bg_tile">@drawable/sampletheme_background_light</item>
+    <item name="drawable/notify_panel_notification_icon_bg_tile">@drawable/unicornia_background_light</item>
     <item name="drawable/notify_panel_notification_icon_bg">@drawable/notify_panel_notification_icon_bg</item>
     <item name="drawable/ic_sysbar_quicksettings">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
 </resource-redirections>

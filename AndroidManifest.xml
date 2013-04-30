@@ -2,7 +2,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.tmobile.theme.ThemeTemplate"
+    package="co.aokp.theme.Unicornia"
     android:hasCode="false"
     android:versionCode="2" android:versionName="0.0.2">
 
@@ -15,16 +15,16 @@
         android:name="com.tmobile.software.themes" />
 
     <application
-        android:name="ThemeTemplate"
+        android:name="Unicornia"
         android:allowBackup="true"
         android:hasCode="false"
         android:icon="@drawable/icon"
-        android:label="ThemeTemplate CM9 Theme">
+        android:label="AOKP Unicornia Theme">
     </application>
 
     <theme
-        pluto:themeId="ThemeTemplate"
-        pluto:styleId="@style/ThemeTemplate"
+        pluto:themeId="Unicornia"
+        pluto:styleId="@style/Unicornia"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"

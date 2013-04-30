@@ -16,9 +16,9 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Theme Template</string>
-    <string name="theme_name">ThemeTemplate</string>
-    <string name="style_appearance_name">ThemeTemplate</string>
-    <string name="author">Generic User</string>
-    <string name="copyright">Copyleft</string>
+    <string name="app_name">Unicornia</string>
+    <string name="theme_name">Unicornia</string>
+    <string name="style_appearance_name">Unicornia</string>
+    <string name="author">Arnav Gupta</string>
+    <string name="copyright">AOKP</string>
 </resources>
