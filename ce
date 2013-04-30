@@ -1,0 +1,19 @@
+#!/bin/bash
+MYDIR=$(pwd)
+for i in "-hdpi" "-mdpi" "-xhdpi" "-land-hdpi" "-land-mdpi" "-land-xhdpi" "-sw600dp-hdpi" "-sw600dp-mdpi" "-sw600dp-xhdpi"
+do
+	CHDIR=${1}/drawable${i}/
+        if [ -d ${CHDIR} ]
+        then
+		cd ${CHDIR}
+		echo "$MYDIR"
+		for file in *
+		do
+			if [ -e ${MYDIR}/res/drawable${i}/${2}${file} ]
+			then
+				cp -fv ${file} ${MYDIR}/res/drawable${i}/${2}${file}
+			fi
+		done
+		cd ${MYDIR}
+        fi
+done
