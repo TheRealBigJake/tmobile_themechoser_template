@@ -1,0 +1,12 @@
+#!/bin/bash
+MYDIR=$(pwd)
+cd res/drawable-hdpi
+for file in *
+do
+	chk=${file%%.*}
+	chkstr="$(grep ${chk} ../*/*xml)"
+	if [ "${chkstr}" == "" ]
+	then
+		echo "${file}"
+	fi
+done
