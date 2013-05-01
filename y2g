@@ -2,6 +2,6 @@
 #Yellow to green conversion script
 for file in $*
 do
-	convert ${file} -modulate 100,100,100 -alpha off ${file} -compose CopyOpacity -composite PNG32:${file}
+	convert ${file} -modulate 100,100,160 -alpha off ${file} -compose CopyOpacity -composite PNG32:${file}
 done
 
