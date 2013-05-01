@@ -16,6 +16,8 @@
  -->
 
 <resource-redirections>
+    <item name="style/ContactsActionBarStyle">@style/Theme.Sample.Contacts</item>
+    <item name="style/SimImportTheme">@style/Theme.Sample.Contacts</item>
     <item name="drawable/dial_num_0_no_plus_wht">@drawable/com_android_phone_dial_num_0_no_plus_wht</item> 
     <item name="drawable/dial_num_4_wht">@drawable/com_android_phone_dial_num_4_wht</item> 
     <item name="drawable/dial_num_8_wht">@drawable/com_android_phone_dial_num_8_wht</item> 

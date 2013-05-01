@@ -18,10 +18,9 @@
 <resource-redirections>
     <item name="mipmap/ic_launcher_smsmms">@drawable/ic_launcher_smsmms</item>
     <item name="style/MmsHoloTheme">@style/Theme.Sample.Mms</item>
-    <item name="drawable/class_zero_background">@drawable/unicornia_background</item>
     <item name="drawable/ic_contact_picture">@drawable/ic_contact_picture</item>
-    <item name="color/read_bgcolor">@color/unicornia_maincolor_reverted</item>
-    <item name="color/unread_bgcolor">@drawable/unicornia_background_light</item>
+    <item name="color/read_bgcolor">@color/unicornia_maincolor_dark</item>
+    <item name="color/unread_bgcolor">@color/unicornia_maincolor_reverted</item>
     <item name="color/message_count_color">@color/unicornia_mms_messagecount</item>
     <item name="drawable/listitem_background">@drawable/mms_background</item>
     <item name="color/text_hairline">@drawable/unicornia_background</item>

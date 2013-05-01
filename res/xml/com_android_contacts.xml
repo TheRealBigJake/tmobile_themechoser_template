@@ -17,7 +17,14 @@
 
 <resource-redirections>
     <item name="mipmap/ic_launcher_phone">@drawable/ic_launcher_phone</item> 
-    <item name="mipmap/ic_launcher_contacts">@drawable/ic_launcher_contacts</item> 
+    <item name="mipmap/ic_launcher_contacts">@drawable/ic_launcher_contacts</item>
+    <item name="style/DetailActivityTheme">@style/Theme.Sample.Contacts</item>
+    <item name="style/EditorActivityTheme">@style/Theme.Sample.Contacts</item>
+    <item name="style/BackgroundOnlyTheme">@style/Theme.Sample.Contacts</item>
+    <item name="style/Theme.QuickContact">@style/Theme.Sample.Contacts</item>
+    <item name="style/PeopleTheme1">@style/Theme.Sample.Contacts</item>
+    <item name="style/ContactsPreferencesTheme1">@style/Theme.Sample.Contacts</item>
+    <item name="style/ContactListFilterTheme">@style/Theme.Sample.Contacts</item>
     <item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item> 
     <item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item> 
     <item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item> 
