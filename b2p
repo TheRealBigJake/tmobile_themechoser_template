@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Blue to pink conversion script
 for file in $*
 do
 	convert ${file} -modulate 100,100,175 -alpha off ${file} -compose CopyOpacity -composite PNG32:${file}

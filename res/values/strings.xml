@@ -16,9 +16,9 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Unicornia</string>
-    <string name="theme_name">Unicornia</string>
-    <string name="style_appearance_name">Unicornia</string>
+    <string name="app_name">Sunflower</string>
+    <string name="theme_name">Sunflower</string>
+    <string name="style_appearance_name">Sunflower</string>
     <string name="author">Arnav Gupta</string>
     <string name="copyright">AOKP</string>
 </resources>
