@@ -16,5 +16,5 @@
  -->
 
 <resources>
-    <style name="Sunflower" parent="@android:style/Theme" />
+    <style name="Leperchauny" parent="@android:style/Theme" />
 </resources>
