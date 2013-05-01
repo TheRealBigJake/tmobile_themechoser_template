@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="unicornia_maincolor">#ffe533b5</color>
-    <color name="unicornia_maincolor_dark">#ffcc0099</color>
-    <color name="unicornia_maincolor_bright">#ffff00dd</color>
-    <color name="unicornia_maincolor_reverted">#ff331133</color>
+    <color name="unicornia_maincolor">#ffe5b533</color>
+    <color name="unicornia_maincolor_dark">#ffcc9900</color>
+    <color name="unicornia_maincolor_bright">#ffffdd00</color>
+    <color name="unicornia_maincolor_reverted">#ff333311</color>
     <color name="unicornia_mms_messagecount">#7fa0a0a0</color>
     <drawable name="unicornia_background">#ff2e2e2e</drawable>
     <drawable name="unicornia_background_light">#ff444444</drawable>
